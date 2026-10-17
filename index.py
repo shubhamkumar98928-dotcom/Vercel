@@ -16,7 +16,7 @@ app.config['JSON_AS_ASCII'] = False
 # ============================================================
 # CONFIG
 # ============================================================
-BACKEND_URL = "https://nexxonexploitsvip.vercel.app/search"
+BACKEND_URL = "https://nexxonexploitsteamvip.vercel.app/search"
 
 CACHE_TTL = 300
 _cache = {}
